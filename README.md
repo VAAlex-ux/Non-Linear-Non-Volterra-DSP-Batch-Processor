@@ -11,4 +11,4 @@ pending or issued patents.
 
 **Tech Stack**
 
-Javascript, HTML, Python, Octave, MATLAB
+Javascript, Node.js, HTML, Python, Octave, MATLAB
