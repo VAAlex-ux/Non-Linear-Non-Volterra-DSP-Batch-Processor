@@ -1,5 +1,5 @@
 # Non Linear Non Volterra DSP Batch Processor
-A new instant audio web batch processor based on Non - Linear Non - Volterra DSP theory. 
+A new instant audio web batch processor based on Non - Linear Non - Volterra DSP theory. This application is protected by multiple patents.
 
 **Optimization and Time Complexity Overview**
 
@@ -12,4 +12,4 @@ such that $c << k$. This achieves faster speed all while requiring less CPU cycl
 
 Javascript, Node.js, HTML, Python, Octave, MATLAB
 
-© [2026] [Velikov, Aleksandar (Alexander)]. All rights reserved. This project and the underlying technologies are protected by international copyright laws and multiple patents and/or pending patent applications. Unauthorized copying, modification, or distribution of this software, in whole or in part, is strictly prohibited.
+© [2026] [Velikov, Aleksandar (Alexander)]. All rights reserved. This project and the underlying technologies are protected by international copyright laws and multiple patents and/or pending patent applications. Unauthorized copying, modification, or distribution of this software/hardware/logic, in whole or in part, is strictly prohibited.
