@@ -9,7 +9,7 @@ Optimized for low-resource environments, maintaining a footprint of < 500 MB whi
 Achieved a significant reduction in time complexity compared to traditional Volterra batch processors. While standard models operate at exponential complexity $O(n^k)$ this implementation maintains an upper bound of $O(n^c)$ where $c << k$. Time Complexity is between $O(1)$ $\le$ $O(n)$ $\le$ $O(n^c)$.
 
 **Performance**
-This reduction in complexity allows for faster than real time batch processing with significantly lower CPU cycle requirements.
+This reduction in complexity allows for real time batch processing with significantly lower CPU cycle requirements.
 
 **Tech Stack**
 JavaScript, Node.js, HTML, Python, GNU Octave, MATLAB
