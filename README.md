@@ -1,5 +1,6 @@
 # Non Linear Non Volterra DSP Batch Processor
-A new instant audio web batch processor based on Non - Linear Non - Volterra DSP theory. This application is protected by multiple patents.
+Non-Linear DSP Web Batch Processor ("AudioForge SonicScope MutantWave DSP Engine")
+Developed a high-speed audio processing engine utilizing Non-Volterra functional series for non-linear system modeling. Designed a cross-platform pipeline where core DSP algorithms were implemented in MATLAB/GNU Octave and deployed as a scalable Node.js batch-processing frontend service.
 
 **Optimization and Time Complexity Overview**
 
