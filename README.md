@@ -12,6 +12,7 @@ Achieved a significant reduction in time complexity compared to traditional Volt
 This reduction in complexity allows for real time batch processing with significantly lower CPU cycle requirements.
 
 **Tech Stack**
+A high-precision computing GNU Octave engine optimized for the cloud, dedicated to complex non-linear batch processing.
 JavaScript, Node.js, HTML, Python, GNU Octave, MATLAB
 
 **Live Prototype**
