@@ -10,6 +10,10 @@ such that $c << k$. This achieves faster speed all while requiring less CPU cycl
 
 **Tech Stack**
 
-Javascript, Node.js, HTML, Python, Octave, MATLAB
+JavaScript, Node.js, HTML, Python, GNU Octave, MATLAB
+
+**Prototype Project Link**
+
+https://audioforge-sonicscope-mutantwave-dsp.onrender.com/
 
 © [2026] [Velikov, Aleksandar (Alexander)]. All rights reserved. This project and the underlying technologies are protected by international copyright laws and multiple patents and/or pending patent applications. Unauthorized copying, modification, or distribution of this software/hardware/logic, in whole or in part, is strictly prohibited.
