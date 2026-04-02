@@ -6,7 +6,7 @@ Developed a high-speed audio processing engine utilizing Non-Volterra functional
 Optimized for low-resource environments, maintaining a footprint of < 500 MB while remaining CPU-efficient.
 
 **Optimization and Time Complexity Overview**
-Achieved a significant reduction in time complexity compared to traditional Volterra batch processors. While standard models operate at exponential complexity $O(n^k)$ this implementation maintains an upper bound of $O(n^c)$ where $c << k$. Time Complexity is between $O(1)$ $\le$ $O(n)$ $\le$ $O(n^c)$.
+Achieved a significant reduction in time complexity compared to traditional Volterra batch processors. While standard models operate at exponential complexity $O(n^k)$ this implementation maintains an upper bound of $O(n^c)$ where $c << k$. Maintains an algorithmic complexity of $O(n^c)$ significantly outperforming the $O(n^k)$ growth typical of standard Volterra expansions. 
 
 **Performance**
 This reduction in complexity allows for real time batch processing with significantly lower CPU cycle requirements.
